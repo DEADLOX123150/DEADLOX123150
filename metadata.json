@@ -1,0 +1,6 @@
+{
+  "name": "CleanCamp",
+  "description": "Premium professional cleaning services website designed to maximize conversions and generate leads with interactive before/after gallery, services, testimonials, and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

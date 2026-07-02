@@ -1,0 +1,11 @@
+# Configuration for Netlify Deployments
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Standard Redirect rule for Single Page Applications (SPAs)
+# This redirects all nested paths back to index.html to support client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
